@@ -59,7 +59,7 @@ public class CalculatorTest {
 		int expected = 2;
 		assertEquals(expected,actual);
 	}
-	//
+	
 	@Test
 	public void testDivide() {
 		int a = 6;
